@@ -2,7 +2,7 @@
 
 <img src="bluejays_pic.jpg" />
 
-Carlos Delgado! Jose Bautista!
+Doc Rivers!!
 
 <!--
 **bluejays101/bluejays101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
